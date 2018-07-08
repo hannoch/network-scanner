@@ -156,7 +156,7 @@ class web_eye(Greenlet):
             # print e
             pass
 
-
+'''
 def main():
     url = 'http://192.168.74.135'
     if url:
@@ -169,3 +169,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+'''
