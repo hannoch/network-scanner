@@ -4,13 +4,15 @@
 设计一个简单的目录、WEB指纹、端口等扫描程序，判断主机的相应端口的开放情况，扫描发现敏感信息，从而达到信息收集的目的。
 # 二、 截图
 ## 2.1 目录扫描
-！[](https://github.com/hannoch/Network-Scanner/blob/master/networkscanner/Screenshot/DirectoryScan.png)
+
+![](https://github.com/hannoch/Network-Scanner/blob/master/networkscanner/Screenshot/DirectoryScan.png)
 ## 2.1 web指纹
-！[](https://github.com/hannoch/Network-Scanner/blob/master/networkscanner/Screenshot/WebFingerprint.png)
+
+![](https://github.com/hannoch/Network-Scanner/blob/master/networkscanner/Screenshot/WebFingerprint.png)
 ## 2.1 端口扫描
-！[](https://github.com/hannoch/Network-Scanner/blob/master/networkscanner/Screenshot/PortScanner.png)
+![](https://github.com/hannoch/Network-Scanner/blob/master/networkscanner/Screenshot/PortScanner.png)
 ## 2.1 域名解析
-！[](https://github.com/hannoch/Network-Scanner/blob/master/networkscanner/Screenshot/Domian.png)
+![](https://github.com/hannoch/Network-Scanner/blob/master/networkscanner/Screenshot/Domian.png)
 
 # 三、工具
 ## 3.1  开发工具
